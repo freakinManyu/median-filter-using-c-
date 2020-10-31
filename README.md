@@ -12,3 +12,5 @@ Input image:
 
 
 Output Image:
+![output](https://user-images.githubusercontent.com/55890344/97770760-1fd62080-1b5c-11eb-9f8c-3be98423b5e0.png)
+
