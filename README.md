@@ -6,5 +6,8 @@ Store the pixel values of input image in an array.
 For each pixel value store all the neighbor pixel value including that cell in a new array (called window).
 Sort the window array.
 Median of window array is used to store output image pixel intensity.
-
+Input image:
 ![input](https://user-images.githubusercontent.com/55890344/97770680-742cd080-1b5b-11eb-8790-1b93d8513fc7.png)
+
+
+Output Image:
